@@ -1,0 +1,20 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# Ignore blog system
+blog/
+blog.html
+
+# Ignore requirement docs
+requirement/
